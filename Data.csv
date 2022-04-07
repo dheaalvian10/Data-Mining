@@ -1,0 +1,11 @@
+﻿Makanan,Jumlah,Harga,Dipesan
+Bakso,44,72000,No
+Geprek,27,48000,Yes
+Sosis,30,54000,No
+Geprek,38,61000,No
+Sosis,40,,Yes
+Bakso,35,58000,Yes
+Spain,,52000,No
+Bakso,48,79000,Yes
+Sosis,50,83000,No
+Bakso,37,67000,Yes
